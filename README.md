@@ -26,10 +26,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-- :telescope: I have a degree in law, I currently work in the business sector and I am in a career transition to the technology area.
+I’m a Full Stack Developer from Brazil, experienced in building front-end and back-end solutions focused on real business problems.
+- :telescope: With a background in Law and business operations, I bring a strong analytical and process-oriented mindset to software development, translating complex business rules into scalable technical solutions.
 
-- :zap: In my free time, I like to read books and solve logical reasoning problems.
+- :zap: I enjoy problem-solving, logical challenges, and exploring topics such as software architecture, data, and AI-driven solutions.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-daniel-moura/) [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=flat&logo=Outlook&logoColor=white)](mailto:gabrieladaniel49@hotmail.com)
 
@@ -54,6 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
