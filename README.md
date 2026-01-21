@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 - :telescope: I have a degree in law, I currently work in the business sector and I am in a career transition to the technology area.
 
 - :zap: In my free time, I like to read books and solve logical reasoning problems.
